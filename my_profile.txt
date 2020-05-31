@@ -1,0 +1,1 @@
+A Senior Software Engineer having overall 4 years of extensive experience in Perl, Python & Shell scripting and automation. Hands on experience in Web Scraping / Data ETL. Knowledge on developing web tools using CGI & Flask programming. Has good knowledge on HTML, CSS, Amazon S3 and Source control tools.
